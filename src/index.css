@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+table {
+  margin-top: 30px;
+}
+
+table tr .red {
+  color: red;
+}
+
+#checkbox {
+  margin-top: 15px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#search {
+  width: 500px;
+}
+
+#label {
+  margin-left: 10px;
+}
